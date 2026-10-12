@@ -1,0 +1,6 @@
+{
+  "name": "रॉयल बेकर्स - डिजिटल मेनू व ऑर्डरिंग",
+  "description": "स्वादिष्ट केक, पेस्ट्री, ब्रेड व कुकीज़ का डिजिटल मेनू, कस्टमाइज़ेशन, लाइव ऑर्डर ट्रैकिंग और ऑनलाइन पेमेंट",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
